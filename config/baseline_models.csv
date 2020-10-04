@@ -1,0 +1,4 @@
+Constant,ConstantModel
+Lowess,LowessModel
+Wavelet,WaveletModel
+Fourier,FourierModel
